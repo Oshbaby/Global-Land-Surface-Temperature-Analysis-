@@ -178,16 +178,11 @@ Global-Climate-Analytics/
 │   └── processed/
 │
 ├── notebooks/
-│   └── climate_analysis.ipynb
+│   └── Exploring Trends in Global Land Surface Temperature 1111 to include table change.ipynb
 │
 ├── visualisations/
 │
 ├── forecasts/
-│
-├── reports/
-│   └── Climate_Report.pdf
-│
-├── requirements.txt
 │
 └── README.md
 ```
