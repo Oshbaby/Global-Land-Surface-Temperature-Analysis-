@@ -198,9 +198,3 @@ Potential enhancements include:
 - Expanding forecasting using Prophet and LSTM models.
 - Developing an interactive dashboard with Streamlit or Power BI.
 - Deploying the forecasting workflow as a REST API.
-
----
-
-## Why This Project Matters
-
-This project demonstrates the ability to work through the complete analytics lifecycle, from collecting and preparing raw data to building statistical models and forecasting future outcomes. It showcases practical experience in data analysis, statistical modelling, and communicating insights through visualisation, making it representative of the type of work expected in data analytics and business intelligence roles.
